@@ -1,0 +1,21 @@
+index,ref,company_manufacturer,company_location,review_date,country_of_bean_origin,specific_bean_origin_or_bar_name,cocoa_percent,ingredients,most_memorable_characteristics,rating
+1850,2342,Pierre Marcolini,Belgium,2019,Cameroon,"Haut Penja, Transporte",70%,"4- B,S,C,L","rich cocoa, off flavor",3.0
+1851,2700,Pierre Marcolini,Belgium,2021,China,"Hainan, lot 218012",72%,"4- B,S,C,L","fruity, rich, grassy",3.5
+1161,1712,Hogarth,New Zealand,2016,Dominican Republic,Conacado,75%,"3- B,S,C","intense, bitter, coffee",3.25
+150,2254,Arete,U.S.A.,2018,Colombia,Tumaco,70%,"2- B,S","smooth, nutty, cocoa",4.0
+1229,1279,Isidro,U.S.A.,2014,Belize,"Belize, batch 26",72%,"2- B,S","mild metallic, spice, tea",3.25
+2241,2634,sweet beans,U.S.A.,2021,Trinidad,Trinidad,80%,"3- B,S,C","herbal, tea, dried fruit",3.75
+362,2314,By Cacao,South Korea,2019,Ecuador,Ecuador,70%,"2- B,S","smokey, sour",3.0
+2217,1634,Starchild,U.S.A.,2015,Ecuador,"Bolivar, Arriba",70%,"4- B,S*,C,V","coconut, mild vanilla",3.0
+1344,2186,La Rifa,Mexico,2018,Mexico,"Uranga, Chiapas, Jimenez Garcia farm",70%,"2- B,S","citrus,prononced orange",3.5
+1804,2000,Palette de Bine,Canada,2017,Dominican Republic,Dominican Republic,75%,"2- B,S","creamy, burnt rubber, off",2.75
+1357,833,L'Amourette,U.S.A.,2012,Venezuela,Carenero Superior,75%,"5- B,S,C,V,L","chalky, fatty, sweet",3.0
+118,1379,Ara,France,2014,Ecuador,Equateur,75%,"3- B,S,C","bitter, floral, leather",2.75
+667,1026,Dandelion,U.S.A.,2013,Venezuela,"Patanemo, batch 3",70%,"2- B,S","licorice, sour, rich cocoa",3.25
+2272,1450,Tablette (aka Vanillabeans),Japan,2015,Vietnam,Vietnam,60%,"5- B,S,C,V,L","vanilla, butter, caramel",3.25
+2510,749,Zotter,Austria,2011,Congo,Congo,65%,"4- B,S*,C,Sa","dairy, salt, caramel",3.0
+1055,1924,Goodnow Farms,U.S.A.,2016,Mexico,"Almendra Blanca, batch 1004",77%,"3- B,S,C","sour off flavor, nutty, earthy",2.75
+891,1287,Finca,U.S.A.,2014,Dominican Republic,Dominican Republic,85%,"3- B,S,C","intense, molasses, bitter",2.5
+718,1832,De Villiers,South Africa,2016,Madagascar,"Sambirano Valley, batch 2477",70%,"3- B,S,C","high roast, fruit",3.0
+1816,1255,Parliament,U.S.A.,2014,Dominican Republic,"Oko Caribe, batch 4",70%,"2- B,S","mild spice, grapes",3.5
+1573,2210,Meybol,Germany,2018,Peru,Piura Blanco,70%,"3- B,S,C","grape, mild smoke, sandy",3.5
